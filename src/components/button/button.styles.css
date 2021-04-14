@@ -1,0 +1,13 @@
+.calculator-button {
+  width: calc(100% / 4);
+  height: 40px;
+  background-color: transparent;
+  border-radius: 0px;
+  border: none;
+  font-weight: bold;
+}
+
+.calculator-button:hover {
+  cursor: pointer;
+  background-color: lightgray;
+}

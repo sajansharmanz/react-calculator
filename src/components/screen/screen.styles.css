@@ -1,0 +1,20 @@
+.calculator-screen {
+  width: 400px;
+  max-width: 400px;
+  height: 50px;
+  background-color: white;
+  border-bottom: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  overflow: hidden;
+}
+
+.calculator-screen p {
+  margin: 0;
+  padding: 0px 10px;
+  font-size: 30px;
+  max-width: 400px;
+  overflow: auto;
+}
