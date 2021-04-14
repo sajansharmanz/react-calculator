@@ -1,3 +1,3 @@
 Basic ReactJS Calculator
 
-Live demo: http://sajansharmanz.github.com/react-calculator
+Live demo: https://sajansharmanz.github.io/react-calculator/
